@@ -1183,7 +1183,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
    .landing-page .section-features .card{
         width: 100%;
         min-height: 390px;
-        padding: 10px 30px;
+        padding: 10px 20px;
         border: 1px solid #DDDDDD;
         border-radius: 10px;
         margin-top: 30px;
@@ -1214,7 +1214,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
       color:#3ABE41;
     }
     .landing-page .section-features .card.card-orange{ 
-      border-color: #FAD9CD;
+      border-color: #eeaa2b;
     }
     .landing-page .section-features .card.card-orange .icon i{
       color:#eeaa2b;
