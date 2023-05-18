@@ -239,8 +239,8 @@ a:focus, a:active {
 }
 
 .btn-warning {
-  border-color: #FFA17F;
-  color: #FFA17F;
+  border-color: #ce810b;
+  color: #ce810b;
 }
 .btn-warning:hover, .btn-warning:focus, .btn-warning:active, .btn-warning.active, .open > .btn-warning.dropdown-toggle {
   background-color: transparent;
