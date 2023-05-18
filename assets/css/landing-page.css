@@ -253,7 +253,7 @@ a:focus, a:active {
 }
 .btn-warning.btn-fill {
   color: white;
-  background-color: #FFA17F;
+  background-color: #eeaa2b;
   opacity: 1;
   filter: alpha(opacity=100);
 }
@@ -1092,7 +1092,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
     overflow: hidden;
     width: 100%;
     min-height: 600px;
-    margin-top: 30px;
     background-color: #EEEEEE
    }
 
@@ -1217,7 +1216,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
       border-color: #FAD9CD;
     }
     .landing-page .section-features .card.card-orange .icon i{
-      color:#ff967f;
+      color:#eeaa2b;
     }
      .landing-page .section-features .card.card-red{ 
       border-color: #FFBFC3;
