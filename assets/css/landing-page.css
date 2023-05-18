@@ -14,7 +14,7 @@
  */
 
 /*           Font Smoothing      */
-h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, .navbar, .brand, .btn-simple, a, .td-name, td {
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h6, .h6, .navbar, .brand, .btn-simple, a, .td-name, td {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   font-family: "Poppins","Open Sans",Arial,sans-serif;
@@ -44,6 +44,7 @@ h4, .h4 {
 }
 
 h5, .h5 {
+  font-family: "Avenir"
   font-size: 18px;
   margin-bottom: 15px;
 }
@@ -1092,6 +1093,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
     width: 100%;
     min-height: 600px;
     margin-top: 30px;
+    background-color: #EEEEEE
    }
 
    .landing-page .section-presentation img{
