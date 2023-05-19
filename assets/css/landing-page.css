@@ -1679,7 +1679,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
     height: auto;
   }
   .landing-page .carousel-indicators{
-    bottom: -30px;
+    bottom: -40px;
   }
   .landing-page .carousel{
     min-height: 210px;
