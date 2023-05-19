@@ -6059,7 +6059,7 @@ button.close {
     padding-bottom: 30px;
   }
   .carousel-indicators {
-    bottom: -30px;
+    bottom: -60px;
   }
 }
 .clearfix:before,
